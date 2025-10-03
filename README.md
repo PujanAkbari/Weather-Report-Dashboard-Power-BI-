@@ -53,11 +53,9 @@ It helps users track temperature trends, rainfall probability, sunrise/sunset ti
 <img width="1760" height="990" alt="Screenshot 2025-10-03 132700" src="https://github.com/user-attachments/assets/7784afb4-34a3-4eee-905e-9222d59d8290" />
 <hr style="border: none; height: 3px; background-color: black;">
 <img width="1760" height="990" alt="Screenshot 2025-10-03 133953" src="https://github.com/user-attachments/assets/abaf23fe-4cef-4e52-9adb-d2cbd5c5ed1d" />
+<hr style="border: none; height: 3px; background-color: black;">
 
-
-
-
-
+Here is the **Live Preview:** 
 https://app.powerbi.com/groups/me/reports/e9e6a403-368e-4805-88f7-20d23a09ba1c?experience=power-bi 
 
 ---

@@ -56,8 +56,7 @@ It helps users track temperature trends, rainfall probability, sunrise/sunset ti
 
 
 Here is the **Live Preview:** 
-https://app.powerbi.com/reportEmbed?reportId=e9e6a403-368e-4805-88f7-20d23a09ba1c&ctid=7d60ab24-ef78-4e73-86de-afb9651a7a26 
-
+https://app.powerbi.com/reportEmbed?reportId=e9e6a403-368e-4805-88f7-20d23a09ba1c&autoAuth=true&ctid=7d60ab24-ef78-4e73-86de-afb9651a7a26
 ---
 
 ## 📁 Repository Contents

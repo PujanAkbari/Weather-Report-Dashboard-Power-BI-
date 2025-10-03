@@ -61,8 +61,7 @@ https://app.powerbi.com/reportEmbed?reportId=e9e6a403-368e-4805-88f7-20d23a09ba1
 ---
 
 ## 📁 Repository Contents
-- `/pbix/` → Contains the **Power BI file (`.pbix`)** for this dashboard  
-- `/assets/` → Contains screenshots and preview images  
+- `/pbix/` → Contains the **Power BI file (`.pbix`)** for this dashboard    
 - `README.md` → Documentation for the project  
 
 ---

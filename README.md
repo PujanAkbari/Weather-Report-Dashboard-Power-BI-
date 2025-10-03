@@ -49,7 +49,7 @@ It helps users track temperature trends, rainfall probability, sunrise/sunset ti
 ---
 
 ## 📷 Dashboard Preview
-![Weather Dashboard](./assets/dashboard.png)  
+https://app.powerbi.com/groups/me/reports/e9e6a403-368e-4805-88f7-20d23a09ba1c?experience=power-bi 
 
 ---
 
